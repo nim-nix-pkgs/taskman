@@ -204,10 +204,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-taskman-master": "src-taskman-master"
+        "src-taskman-0_5_2": "src-taskman-0_5_2"
       }
     },
-    "src-taskman-master": {
+    "src-taskman-0_5_2": {
       "flake": false,
       "locked": {
         "lastModified": 1668746510,
@@ -219,7 +219,7 @@
       },
       "original": {
         "owner": "ire4ever1190",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.5.2",
         "repo": "taskman",
         "type": "github"
       }
